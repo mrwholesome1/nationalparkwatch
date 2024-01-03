@@ -1,0 +1,97 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 12px;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+  color: #e0e0e0;
+text-align: center;
+}
+
+h2 {
+  font-size: 25px;
+  font-weight: bold;
+text-align: center;
+}
+
+p {
+  line-height: 1.5;
+  font-size: 20px;
+  
+
+}
+
+header, footer {
+  text-align: center;
+  background-color: #000000;
+  padding: 15px;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+img {
+  max-width: 100%;
+  height: fit-content;
+  display: block;
+  margin: 20px auto;
+}
+
+.info {
+  background-color: #e0e0e0;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.info p {
+  margin: 5px 0;
+}
+
+ /* Style the link to look like a button */
+ .scrollToTopBtn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #f0e9e9;
+  color: #000000;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+  /* here we have use table to make navigation easier  */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    width: 100%; /* Set the width of the table (adjust as needed) */
+
+  }
+  th, td {
+    border: 3px solid #000000;
+    padding: 8px;
+    text-align: center;
+    font-size: large;
+    
+  }
+  th {
+    background-color: #837d7d;
+    
+  }
+  a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+  }
+ li {
+font-size: 20px;
+ }
+
+
+ 
